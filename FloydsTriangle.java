@@ -4,7 +4,7 @@ public class FloydsTriangle {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-      int rows , numbers = 1, counter ,j;
+      int rows , number = 1, counter ,j;
       
       Scanner input = new Scanner(System.in); 
       System.out.println("Enter the number of rows for floyds triangle");
